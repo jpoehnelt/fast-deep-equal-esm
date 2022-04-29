@@ -35,5 +35,5 @@ jobs:
             @semantic-release/npm
             semantic-release-npm-deprecate
         env:
-          GH_TOKEN: ${{ secrets.RELEASE_TOKEN }}
-          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          NPM_TOKEN: ${{ secrets.NPM_WOMBAT_TOKEN }}
