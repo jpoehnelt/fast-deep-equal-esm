@@ -1,9 +1,9 @@
 # fast-deep-equal-esm
 The fastest deep equal with ES6 Map, Set and Typed arrays support.
 
-[![npm](https://img.shields.io/npm/v/eleventy-plugin-related)](https://www.npmjs.com/package/eleventy-plugin-related)
-![Build](https://github.com/jpoehnelt/eleventy-plugin-related/workflows/Build/badge.svg)
-![Release](https://github.com/jpoehnelt/eleventy-plugin-related/workflows/Release/badge.svg)
+[![npm](https://img.shields.io/npm/v/fast-deep-equal-esm)](https://www.npmjs.com/package/fast-deep-equal-esm)
+![Build](https://github.com/jpoehnelt/fast-deep-equal-esm/workflows/Build/badge.svg)
+![Release](https://github.com/jpoehnelt/fast-deep-equal-esm/workflows/Release/badge.svg)
 
 ## Install
 
