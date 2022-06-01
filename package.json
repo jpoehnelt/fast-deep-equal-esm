@@ -41,7 +41,7 @@
   "homepage": "https://github.com/jpoehnelt/fast-deep-equal-esm#readme",
   "devDependencies": {
     "@types/jest": "^27.4.1",
-    "esbuild": "^0.14.38",
+    "esbuild": "^0.14.42",
     "eslint": "^8.16.0",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-jest": "^26.4.6",
